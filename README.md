@@ -1,1 +1,1 @@
-APPENEDED this is a text file readme
+this is a text file readme
